@@ -10,7 +10,6 @@
 
 I design and build software systems across the entire stack — from real-time collaborative web applications and Flutter mobile apps down to embedded operating systems, network socket streaming, and event-driven microservices.
 
-Explore my interactive portfolio at **[yakuzokai.github.io](https://yakuzokai.github.io)**.
 
 ## What I've built
 
