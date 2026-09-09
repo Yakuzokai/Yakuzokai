@@ -39,4 +39,4 @@ Explore my interactive portfolio at **[yakuzokai.github.io](https://yakuzokai.gi
 
 ## Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yakuzokai.github.io-black?logo=vercel)](https://yakuzokai.github.io) [![GitHub](https://img.shields.io/badge/GitHub-Yakuzokai-18181b?logo=github)](https://github.com/Yakuzokai) [![Email](https://img.shields.io/badge/Email-albertvelez025%40gmail.com-ea4335?logo=gmail&logoColor=white)](mailto:albertvelez025@gmail.com) 
+[![GitHub](https://img.shields.io/badge/GitHub-Yakuzokai-18181b?logo=github)](https://github.com/Yakuzokai) [![Email](https://img.shields.io/badge/Email-albertvelez025%40gmail.com-ea4335?logo=gmail&logoColor=white)](mailto:albertvelez025@gmail.com) 
