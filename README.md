@@ -17,7 +17,6 @@ Explore my interactive portfolio at **[yakuzokai.github.io](https://yakuzokai.gi
 - **[E-commerce](https://github.com/Yakuzokai/E-commerce)** ![Stars](https://img.shields.io/github/stars/Yakuzokai/E-commerce?style=flat&color=gold) — Enterprise microservices commerce platform inspired by Shopee & Amazon. Node.js 20, TypeScript, Apache Kafka event streaming, Redis caching, PostgreSQL, and Elasticsearch.
 - **[recipely](https://yakuzokai.github.io)** — AI-assisted mobile recipe platform with multimodal URL-to-recipe extraction (Google Gemini API), Guided Cooking Mode with step timers, and cooking streaks. Built with Flutter & Riverpod.
 - **[Nexus Workspace](https://yakuzokai.github.io)** — Modular monolith collaboration suite unifying real-time WebSocket chat, MinIO S3 file management, Monaco code editing, and document workspaces. Built with Next.js 15, React 19, and FastAPI.
-- **[unlimited-cloud-storage](https://github.com/Yakuzokai/unlimited-cloud-storage)** ![Stars](https://img.shields.io/github/stars/Yakuzokai/unlimited-cloud-storage?style=flat&color=gold) — TeraBox Coin Collector browser extension published on the [Chrome Web Store](https://chromewebstore.google.com/detail/terabox-coin-collector/hbekcbjbdkcoggmjnpnffioipgadlkfl). Automates daily tasks and unlocks cloud storage tiers.
 - **[PisoOS](https://yakuzokai.github.io)** — Custom operating system environment and coin-drop sensor automation for unattended computing terminals (PisoNet). Embedded Linux kernel + hardware GPIO daemon.
 - **[cafe_pos](https://yakuzokai.github.io)** — Specialized Point-of-Sale terminal system with order queuing, table workflows, split-billing, and ESC/POS thermal receipt printing.
 - **[remotedesktopLAN](https://yakuzokai.github.io)** — Low-latency remote desktop streaming utility utilizing raw TCP/UDP network sockets for local screen capture and input transmission.
@@ -36,8 +35,8 @@ Explore my interactive portfolio at **[yakuzokai.github.io](https://yakuzokai.gi
 - **Languages:** TypeScript, JavaScript, Python, Dart, C++, Rust, SQL
 - **Backend & Cloud:** FastAPI, Node.js, Apache Kafka, Redis, PostgreSQL, Elasticsearch, Docker Compose, MinIO S3
 - **Mobile & Frontend:** Flutter, Riverpod, Next.js 15, React 19, WebSockets, Monaco Editor
-- **Systems & Hardware:** Custom Linux / PisoOS, Network Sockets, Wake-on-LAN, Chrome WebExtensions API
+- **Systems & Hardware:** Custom Linux / PisoOS, Network Sockets, Wake-on-LAN.
 
 ## Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yakuzokai.github.io-black?logo=vercel)](https://yakuzokai.github.io) [![GitHub](https://img.shields.io/badge/GitHub-Yakuzokai-18181b?logo=github)](https://github.com/Yakuzokai) [![Email](https://img.shields.io/badge/Email-albertvelez025%40gmail.com-ea4335?logo=gmail&logoColor=white)](mailto:albertvelez025@gmail.com) [![Chrome Web Store](https://img.shields.io/badge/Chrome_Store-TeraBox_Collector-4285f4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/terabox-coin-collector/hbekcbjbdkcoggmjnpnffioipgadlkfl)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yakuzokai.github.io-black?logo=vercel)](https://yakuzokai.github.io) [![GitHub](https://img.shields.io/badge/GitHub-Yakuzokai-18181b?logo=github)](https://github.com/Yakuzokai) [![Email](https://img.shields.io/badge/Email-albertvelez025%40gmail.com-ea4335?logo=gmail&logoColor=white)](mailto:albertvelez025@gmail.com) 
