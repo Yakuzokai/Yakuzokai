@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+  body { background: #09090b; color: #f4f4f5; width: 1280px; height: 800px; padding: 48px; display: flex; flex-direction: column; justify-content: space-between; overflow: hidden; }
+  .header { display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #27272a; padding-bottom: 24px; }
+  .badge { background: #18181b; border: 1px solid #27272a; color: #a1a1aa; padding: 6px 14px; border-radius: 9999px; font-size: 13px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; display: inline-flex; align-items: center; gap: 8px; }
+  .dot { width: 8px; height: 8px; background: #10b981; border-radius: 50%; box-shadow: 0 0 10px #10b981; }
+  .title { font-size: 38px; font-weight: 800; letter-spacing: -0.03em; color: #ffffff; margin-top: 12px; }
+  .subtitle { font-size: 16px; color: #a1a1aa; max-width: 650px; line-height: 1.5; margin-top: 8px; }
+  .content { display: grid; grid-template-columns: 1.1fr 1fr; gap: 32px; margin-top: 32px; flex: 1; }
+  .card { background: #121215; border: 1px solid #27272a; border-radius: 16px; padding: 24px; display: flex; flex-direction: column; justify-content: space-between; }
+  .pipeline-step { background: #18181b; border: 1px solid #27272a; border-radius: 10px; padding: 14px 18px; margin-bottom: 12px; display: flex; align-items: center; justify-content: space-between; }
+  .step-name { font-weight: 600; font-size: 15px; color: #f4f4f5; }
+  .step-tag { font-size: 12px; color: #06b6d4; background: #083344; padding: 4px 10px; border-radius: 6px; font-weight: 600; }
+  .mock-ui { background: #000; border: 1px solid #27272a; border-radius: 12px; padding: 20px; font-family: monospace; font-size: 13px; color: #94a3b8; }
+  .highlight { color: #38bdf8; font-weight: bold; }
+  .tags { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 16px; }
+  .tag { background: #27272a; color: #e4e4e7; font-size: 12px; padding: 4px 10px; border-radius: 6px; font-weight: 500; }
+  .footer-status { display: flex; justify-content: space-between; align-items: center; border-top: 1px solid #27272a; padding-top: 20px; color: #71717a; font-size: 14px; }
+</style>
+</head>
+<body>
+  <div>
+    <div class='header'>
+      <div class='badge'><span class='dot'></span> Mobile & AI Platform</div>
+      <div class='badge'>Flutter · Riverpod · Gemini AI · Firebase</div>
+    </div>
+    <h1 class='title'>Recipely</h1>
+    <p class='subtitle'>AI-assisted recipe management platform combining URL-to-recipe extraction, guided step-by-step cooking timers, and real-time cloud sync.</p>
+  </div>
+  <div class='content'>
+    <div class='card'>
+      <div>
+        <h3 style='font-size:18px; margin-bottom:16px; color:#fff;'>AI Extraction & Cooking Flow</h3>
+        <div class='pipeline-step'>
+          <div>
+            <div class='step-name'>🔗 URL Ingestion & Share Intent</div>
+            <div style='font-size:12px; color:#71717a; margin-top:2px;'>Captures incoming recipe links from browsers & social apps</div>
+          </div>
+          <span class='step-tag'>Deep Link</span>
+        </div>
+        <div class='pipeline-step'>
+          <div>
+            <div class='step-name'>⚡ Google Gemini API Extraction</div>
+            <div style='font-size:12px; color:#71717a; margin-top:2px;'>Parses raw DOM/text into structured schema: ingredients, steps, timings</div>
+          </div>
+          <span class='step-tag' style='background:#1e1b4b; color:#818cf8;'>Structured LLM</span>
+        </div>
+        <div class='pipeline-step'>
+          <div>
+            <div class='step-name'>⏱️ Guided Cooking Mode</div>
+            <div style='font-size:12px; color:#71717a; margin-top:2px;'>Active step timers, checklist progress, voice cues & hands-free view</div>
+          </div>
+          <span class='step-tag' style='background:#052e16; color:#4ade80;'>Realtime</span>
+        </div>
+        <div class='pipeline-step'>
+          <div>
+            <div class='step-name'>🔥 Cooking Streaks & Hub</div>
+            <div style='font-size:12px; color:#71717a; margin-top:2px;'>Gamified habit streaks, friend invitations, and shared cookbook</div>
+          </div>
+          <span class='step-tag' style='background:#451a03; color:#fb923c;'>Social Sync</span>
+        </div>
+      </div>
+      <div class='tags'>
+        <span class='tag'>Flutter 3.x</span>
+        <span class='tag'>Dart</span>
+        <span class='tag'>Riverpod State</span>
+        <span class='tag'>Google Gemini API</span>
+        <span class='tag'>Firebase Firestore</span>
+        <span class='tag'>Offline-First</span>
+      </div>
+    </div>
+    <div class='card'>
+      <div>
+        <h3 style='font-size:18px; margin-bottom:16px; color:#fff;'>Schema Extraction Engine</h3>
+        <div class='mock-ui'>
+          <span style='color:#64748b;'>// Gemini Recipe Extraction Response</span><br/>
+          {<br/>
+          &nbsp;&nbsp;<span class='highlight'>"recipe_title"</span>: "Pan-Seared Truffle Ribeye",<br/>
+          &nbsp;&nbsp;<span class='highlight'>"prep_time_minutes"</span>: 15,<br/>
+          &nbsp;&nbsp;<span class='highlight'>"cook_time_minutes"</span>: 20,<br/>
+          &nbsp;&nbsp;<span class='highlight'>"servings"</span>: 2,<br/>
+          &nbsp;&nbsp;<span class='highlight'>"steps"</span>: [<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;{ "step": 1, "text": "Bring steak to room temp", "timer_s": 900 },<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;{ "step": 2, "text": "High heat sear 3m per side", "timer_s": 180 },<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;{ "step": 3, "text": "Baste with garlic herb butter", "timer_s": 120 }<br/>
+          &nbsp;&nbsp;],<br/>
+          &nbsp;&nbsp;<span class='highlight'>"streak_eligible"</span>: true<br/>
+          }
+        </div>
+      </div>
+      <div style='background:#18181b; border:1px solid #27272a; border-radius:12px; padding:16px; margin-top:16px;'>
+        <div style='font-size:13px; color:#a1a1aa;'>State Isolation Strategy</div>
+        <div style='font-size:14px; color:#ffffff; font-weight:600; margin-top:4px;'>Immutable StateNotifierProviders + Hive local storage caching</div>
+      </div>
+    </div>
+  </div>
+  <div class='footer-status'>
+    <span>Platform: Android · iOS · Web</span>
+    <span>Developed by Albert Velez (@Yakuzokai)</span>
+  </div>
+</body>
+</html>

@@ -1,57 +1,200 @@
+<!-- Header Banner -->
 <div align="center">
-
-# Hi, I'm Albert 👋
-
-### Software Engineer · Mobile · Web · Backend · Systems
-
-I build practical software, from AI-powered apps and collaboration tools to embedded Linux and network utilities.
-
-<a href="https://github.com/Yakuzokai"><img src="./assets/github.svg" alt="GitHub" width="24" height="24" /></a>&nbsp;&nbsp;
-<a href="mailto:albertvelez025@gmail.com"><img src="./assets/email.svg" alt="Email" width="24" height="24" /></a>
-
-<br />
-
-<img src="https://ghchart.rshah.org/Yakuzokai" alt="Albert's GitHub contribution chart" width="780" />
-
+  <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/banner.svg" alt="Albert Velez Banner" width="100%">
 </div>
 
----
+<br/>
 
-## ✨ Featured projects
-
-| Project | What it does |
-| --- | --- |
-| [LH8n LightBelt KSU Module](https://github.com/Yakuzokai/LH8n_LightBelt_KSU_Module) | KernelSU module for the Tecno LH8n (POVA 5 Pro), packaging the Backlight Effect app and boot scripts for its AW22xxx rear LED controller. |
-| [E-commerce](https://github.com/Yakuzokai/E-commerce) | Microservices commerce platform inspired by Shopee and Amazon, built with Node.js, TypeScript, Kafka, Redis, PostgreSQL, and Elasticsearch. |
-| [recipely](https://yakuzokai.github.io) | Flutter recipe app with AI-assisted recipe extraction, guided cooking, step timers, and cooking streaks. |
-| [Nexus Workspace](https://yakuzokai.github.io) | Collaboration suite with real-time chat, file management, code editing, and document workspaces. |
-| [PisoOS](https://yakuzokai.github.io) | Embedded Linux environment and coin-drop sensor automation for unattended PisoNet terminals. |
-| [cafe_pos](https://yakuzokai.github.io) | Point-of-sale system with order queues, table workflows, split billing, and ESC/POS receipt printing. |
-| [remotedesktopLAN](https://yakuzokai.github.io) | LAN remote desktop utility for streaming screen and input data over TCP and UDP sockets. |
-| [PowerLAN](https://yakuzokai.github.io) | Local network power management with Wake-on-LAN and node heartbeat checks. |
-| [free-llm-api-resources](https://github.com/Yakuzokai/free-llm-api-resources) | Directory of free LLM inference APIs and provider limits. |
-| [claw-code](https://github.com/Yakuzokai/claw-code) | Systems programming and CLI utilities in C++ and Rust. |
-| [Hotel-Project](https://github.com/josephamasa-eng/Hotel-Project) | Hotel bookings, guest billing, and room occupancy management. |
-
-## 🤝 Collaborative projects
-
-- [shawraaap_IMS](https://github.com/charmiedel02/shawraaap_IMS) — Inventory tracking, stock movement logs, and replenishment.
-- [techtrack](https://github.com/SYEM23/techtrack) — Collaborative system tracking and technology tooling.
-
-## 🧰 Tech stack
-
-| Area | Tools |
-| --- | --- |
-| Languages | TypeScript, JavaScript, Python, Dart, C++, Rust, SQL |
-| Backend & data | FastAPI, Node.js, Kafka, Redis, PostgreSQL, Elasticsearch, MinIO |
-| Web & mobile | Next.js, React, Flutter, Riverpod, WebSockets, Monaco Editor |
-| Systems & networking | Embedded Linux, GPIO, TCP/UDP sockets, Wake-on-LAN |
-| Infrastructure | Docker Compose |
-
----
-
+<!-- Introduction -->
 <div align="center">
+  <h1>👋 Hi, I'm Albert Velez</h1>
+  <h3>Software Engineer · Full Stack, Systems & Mobile</h3>
+  
+  [![Email](https://img.shields.io/badge/Email-albertvelez025%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:albertvelez025@gmail.com)
+  [![GitHub followers](https://img.shields.io/github/followers/Yakuzokai?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)](https://github.com/Yakuzokai)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-yakuzokai.github.io-blue?style=flat-square&logo=vercel)](https://yakuzokai.github.io/)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Yakuzokai&style=flat-square&color=0891b2)
+</div>
 
-*Thanks for stopping by!* 👋
+<br/>
 
+<!-- GitHub Snake & Contribution Grid -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/contribution-chart.svg" width="100%">
+  </picture>
+</div>
+
+<br/>
+
+<!-- Technologies -->
+<div align="center">
+  <h2>💻 Tech Stack</h2>
+  
+  #### Languages & Frameworks
+  <img src="https://skillicons.dev/icons?i=ts,js,py,dart,flutter,cpp,rust,react,nextjs,fastapi,nodejs" alt="Languages & Frameworks" />
+  
+  #### Backend, Systems & Infrastructure
+  <img src="https://skillicons.dev/icons?i=docker,kafka,redis,postgres,elasticsearch,linux,ubuntu,nginx" alt="Backend & Infrastructure" />
+  
+  #### Databases & Cloud Services
+  <p>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  </p>
+  
+  #### Tools & Platforms
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,powershell" alt="Tools & Platforms" />
+</div>
+
+<br/>
+
+<!-- Projects Section -->
+<div align="center">
+  <h2>🚀 Featured Projects</h2>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://yakuzokai.github.io/">
+          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/portfolio.png" width="250px" alt="Albert Velez Portfolio"/><br/>
+          <b>Developer Portfolio</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Yakuzokai/E-commerce">
+          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/ecommerce.png" width="250px" alt="ShopHub Enterprise"/><br/>
+          <b>ShopHub Enterprise (E-commerce)</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://chromewebstore.google.com/detail/terabox-coin-collector/hbekcbjbdkcoggmjnpnffioipgadlkfl">
+          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/terabox.png" width="250px" alt="TeraBox Coin Collector"/><br/>
+          <b>TeraBox Coin Collector</b>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://yakuzokai.github.io/">
+          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/recipely.png" width="250px" alt="Recipely Mobile AI"/><br/>
+          <b>Recipely (Mobile & AI)</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://yakuzokai.github.io/">
+          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/pisoos.png" width="250px" alt="PisoOS Hotspot"/><br/>
+          <b>PisoOS (Embedded Linux & Vending)</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://yakuzokai.github.io/">
+          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/nexus-workspace.png" width="250px" alt="Nexus Workspace"/><br/>
+          <b>Nexus Workspace</b>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Yakuzokai/LH8n_LightBelt_KSU_Module">
+          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/lh8n-ksu.png" width="250px" alt="LH8n LightBelt KSU"/><br/>
+          <b>LH8n LightBelt KSU Module</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Yakuzokai/free-llm-api-resources">
+          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/freellm.png" width="250px" alt="Free LLM APIs"/><br/>
+          <b>Free LLM API Resources</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Yakuzokai/claw-code">
+          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/clawcode.png" width="250px" alt="Claw Code Systems"/><br/>
+          <b>Claw Code & Systems (C++/Rust)</b>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://cathrynlavery.github.io/diagram-design/">
+          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/diagram.png" width="250px" alt="Diagram Design"/><br/>
+          <b>Diagram Design Suite</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://strix.ai">
+          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/strix.png" width="250px" alt="Strix AI"/><br/>
+          <b>Strix AI Security</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://yakuzokai.github.io/">
+          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/portfolio.png" width="250px" alt="Architecture & Systems"/><br/>
+          <b>Systems & LAN Tooling</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- Social Media -->
+<div align="center">
+  <h2>🌐 Connect With Me</h2>
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yakuzokai)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertvelez025@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yakuzokai.github.io/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+</div>
+
+<br/>
+
+<!-- Contributions -->
+<div align="center">
+  <h2>🤝 How to Collaborate</h2>
+  
+  🔍 Explore my open-source projects & architecture write-ups  
+  🐛 Report issues or request features  
+  💡 Suggest optimizations for distributed systems & embedded code  
+  🌟 Star the repositories you find useful  
+</div>
+
+<br/>
+
+<!-- Languages -->
+<div align="center">
+  <h2>🌍 Languages</h2>
+  
+  ![English](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge)
+  ![Filipino](https://img.shields.io/badge/Filipino-Native-orange?style=for-the-badge)
+</div>
+
+<br/>
+
+<!-- GitHub Stats -->
+<div align="center">
+  <h2>📊 GitHub Statistics</h2>
+  
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Yakuzokai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /><br/><br/>
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yakuzokai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /><br/><br/>
+  
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yakuzokai&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+<!-- Footer -->
+<div align="center">
+  <p>🚀 Open to full-stack engineering roles, systems architecture consulting & innovative collaborations.</p>
 </div>
