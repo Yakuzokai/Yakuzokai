@@ -6,7 +6,8 @@
 
 I build practical software, from AI-powered apps and collaboration tools to embedded Linux and network utilities.
 
-<a href="https://github.com/Yakuzokai">🌐 GitHub</a> &nbsp;·&nbsp; <a href="mailto:albertvelez025@gmail.com">✉️ Email</a>
+<a href="https://github.com/Yakuzokai"><img src="./assets/github.svg" alt="GitHub" width="24" height="24" /></a>&nbsp;&nbsp;
+<a href="mailto:albertvelez025@gmail.com"><img src="./assets/email.svg" alt="Email" width="24" height="24" /></a>
 
 <br />
 
