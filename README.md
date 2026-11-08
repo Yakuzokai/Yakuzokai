@@ -31,11 +31,11 @@ I build practical software, from AI-powered apps and collaboration tools to embe
 | [PowerLAN](https://yakuzokai.github.io) | Local network power management with Wake-on-LAN and node heartbeat checks. |
 | [free-llm-api-resources](https://github.com/Yakuzokai/free-llm-api-resources) | Directory of free LLM inference APIs and provider limits. |
 | [claw-code](https://github.com/Yakuzokai/claw-code) | Systems programming and CLI utilities in C++ and Rust. |
+| [Hotel-Project](https://github.com/josephamasa-eng/Hotel-Project) | Hotel bookings, guest billing, and room occupancy management. |
 
 ## 🤝 Collaborative projects
 
 - [shawraaap_IMS](https://github.com/charmiedel02/shawraaap_IMS) — Inventory tracking, stock movement logs, and replenishment.
-- [Hotel-Project](https://github.com/josephamasa-eng/Hotel-Project) — Hotel bookings, guest billing, and room occupancy management.
 - [techtrack](https://github.com/SYEM23/techtrack) — Collaborative system tracking and technology tooling.
 
 ## 🧰 Tech stack
