@@ -144,13 +144,16 @@
   <h2>📊 GitHub Statistics</h2>
   
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Yakuzokai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /><br/><br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yakuzokai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /><br/><br/>
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yakuzokai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /><br/><br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yakuzokai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /><br/><br/>
   
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=Yakuzokai&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br/><br/>
+
   <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yakuzokai&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=Yakuzokai&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
 <br/>
