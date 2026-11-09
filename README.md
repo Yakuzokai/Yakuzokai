@@ -82,41 +82,21 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/charmiedel02/shawraaap_IMS">
-          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/shawraaap_login.png" width="250px" alt="ShawRaaap IMS"/><br/>
-          <b>ShawRaaap IMS Platform</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Yakuzokai/PisoOS">
-          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/pisoos.png" width="250px" alt="PisoOS Hotspot"/><br/>
-          <b>PisoOS (Embedded Linux & Vending)</b>
+        <a href="https://github.com/Yakuzokai/recipely">
+          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/recipely.png" width="250px" alt="Recipely Mobile AI"/><br/>
+          <b>Recipely Mobile AI Platform</b>
         </a>
       </td>
       <td align="center">
         <a href="https://yakuzokai.github.io/">
-          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/portfolio.png" width="250px" alt="Albert Velez Portfolio"/><br/>
-          <b>Developer Portfolio & Architecture</b>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://yakuzokai.github.io/">
-          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/voxelhome.png" width="250px" alt="VoxelHome Spatial Planning"/><br/>
-          <b>VoxelHome (WebAR & Spatial Fit)</b>
+          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/srms.png" width="250px" alt="NCST Student Record Management"/><br/>
+          <b>NCST Student Record Management (SRMS)</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://yakuzokai.github.io/">
-          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/cafe_pos.png" width="250px" alt="iCafe Faith POS"/><br/>
-          <b>iCafe Faith POS System</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://yakuzokai.github.io/">
-          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/ncst.png" width="250px" alt="NCST Academic Portal"/><br/>
-          <b>NCST Student Portal (SRMS v2.0)</b>
+        <a href="https://github.com/Yakuzokai/LH8n_LightBelt_KSU_Module">
+          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/lh8n-ksu.png" width="250px" alt="Tecno LH8n LightBelt Module"/><br/>
+          <b>Tecno LH8n LightBelt Controller</b>
         </a>
       </td>
     </tr>
