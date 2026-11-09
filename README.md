@@ -135,7 +135,7 @@
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/icons/languages.svg" width="22" height="22" valign="middle" alt="Languages Icon"/> Languages</h2>
   
-  ![English](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge)
+  ![English](https://img.shields.io/badge/English-Conversational-green?style=for-the-badge)
   ![Filipino](https://img.shields.io/badge/Filipino-Native-orange?style=for-the-badge)
 </div>
 
