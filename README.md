@@ -34,14 +34,15 @@
   <h2>💻 Tech Stack</h2>
   
   #### Languages & Frameworks
-  <img src="https://skillicons.dev/icons?i=ts,js,py,dart,flutter,cpp,rust,react,nextjs,fastapi,nodejs" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,dart,flutter,cpp,rust,react,nextjs,fastapi,nodejs,php" alt="Languages & Frameworks" />
   
   #### Backend, Systems & Infrastructure
-  <img src="https://skillicons.dev/icons?i=docker,kafka,redis,postgres,elasticsearch,linux,ubuntu,nginx" alt="Backend & Infrastructure" />
+  <img src="https://skillicons.dev/icons?i=docker,kafka,redis,postgres,mysql,elasticsearch,linux,ubuntu,nginx" alt="Backend & Infrastructure" />
   
   #### Databases & Cloud Services
   <p>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
     <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
     <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
@@ -56,86 +57,66 @@
 
 <!-- Projects Section -->
 <div align="center">
-  <h2>🚀 Featured Projects</h2>
+  <h2>🚀 Featured Projects & Web Applications</h2>
   
   <table>
     <tr>
       <td align="center">
-        <a href="https://yakuzokai.github.io/">
-          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/portfolio.png" width="250px" alt="Albert Velez Portfolio"/><br/>
-          <b>Developer Portfolio</b>
-        </a>
-      </td>
-      <td align="center">
         <a href="https://github.com/Yakuzokai/E-commerce">
           <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/ecommerce.png" width="250px" alt="ShopHub Enterprise"/><br/>
-          <b>ShopHub Enterprise (E-commerce)</b>
+          <b>ShopHub Enterprise Platform</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://chromewebstore.google.com/detail/terabox-coin-collector/hbekcbjbdkcoggmjnpnffioipgadlkfl">
-          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/terabox.png" width="250px" alt="TeraBox Coin Collector"/><br/>
-          <b>TeraBox Coin Collector</b>
+        <a href="https://github.com/josephamasa-eng/Hotel-Project">
+          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/hotel.png" width="250px" alt="Fynn Boutique Hotel"/><br/>
+          <b>Fynn Boutique Hotel System</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://yakuzokai.github.io/">
+          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/cup.png" width="250px" alt="Celestine University"/><br/>
+          <b>Celestine University (SRMS)</b>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://yakuzokai.github.io/">
-          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/recipely.png" width="250px" alt="Recipely Mobile AI"/><br/>
-          <b>Recipely (Mobile & AI)</b>
+        <a href="https://github.com/charmiedel02/shawraaap_IMS">
+          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/shawraaap_login.png" width="250px" alt="ShawRaaap IMS"/><br/>
+          <b>ShawRaaap IMS Platform</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://yakuzokai.github.io/">
+        <a href="https://github.com/Yakuzokai/PisoOS">
           <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/pisoos.png" width="250px" alt="PisoOS Hotspot"/><br/>
           <b>PisoOS (Embedded Linux & Vending)</b>
         </a>
       </td>
       <td align="center">
         <a href="https://yakuzokai.github.io/">
-          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/nexus-workspace.png" width="250px" alt="Nexus Workspace"/><br/>
-          <b>Nexus Workspace</b>
+          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/portfolio.png" width="250px" alt="Albert Velez Portfolio"/><br/>
+          <b>Developer Portfolio & Architecture</b>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/Yakuzokai/LH8n_LightBelt_KSU_Module">
-          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/lh8n-ksu.png" width="250px" alt="LH8n LightBelt KSU"/><br/>
-          <b>LH8n LightBelt KSU Module</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Yakuzokai/free-llm-api-resources">
-          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/freellm.png" width="250px" alt="Free LLM APIs"/><br/>
-          <b>Free LLM API Resources</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Yakuzokai/claw-code">
-          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/clawcode.png" width="250px" alt="Claw Code Systems"/><br/>
-          <b>Claw Code & Systems (C++/Rust)</b>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://cathrynlavery.github.io/diagram-design/">
-          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/diagram.png" width="250px" alt="Diagram Design"/><br/>
-          <b>Diagram Design Suite</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://strix.ai">
-          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/strix.png" width="250px" alt="Strix AI"/><br/>
-          <b>Strix AI Security</b>
+        <a href="https://yakuzokai.github.io/">
+          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/voxelhome.png" width="250px" alt="VoxelHome Spatial Planning"/><br/>
+          <b>VoxelHome (WebAR & Spatial Fit)</b>
         </a>
       </td>
       <td align="center">
         <a href="https://yakuzokai.github.io/">
-          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/portfolio.png" width="250px" alt="Architecture & Systems"/><br/>
-          <b>Systems & LAN Tooling</b>
+          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/cafe_pos.png" width="250px" alt="iCafe Faith POS"/><br/>
+          <b>iCafe Faith POS System</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://yakuzokai.github.io/">
+          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/ncst.png" width="250px" alt="NCST Academic Portal"/><br/>
+          <b>NCST Student Portal (SRMS v2.0)</b>
         </a>
       </td>
     </tr>
