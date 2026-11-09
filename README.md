@@ -7,7 +7,7 @@
 
 <!-- Introduction -->
 <div align="center">
-  <h1>👋 Hi, I'm Albert Velez</h1>
+  <h1><img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/icons/terminal.svg" width="28" height="28" valign="middle" alt="Terminal Icon"/> Hi, I'm Albert Velez</h1>
   <h3>Software Engineer · Full Stack, Systems & Mobile</h3>
   
   [![Email](https://img.shields.io/badge/Email-albertvelez025%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:albertvelez025@gmail.com)
@@ -31,7 +31,7 @@
 
 <!-- Technologies -->
 <div align="center">
-  <h2>💻 Tech Stack</h2>
+  <h2><img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/icons/layers.svg" width="22" height="22" valign="middle" alt="Tech Stack Icon"/> Tech Stack</h2>
   
   #### Languages & Frameworks
   <img src="https://skillicons.dev/icons?i=ts,js,py,dart,flutter,cpp,rust,react,nextjs,fastapi,nodejs,php" alt="Languages & Frameworks" />
@@ -57,7 +57,7 @@
 
 <!-- Projects Section -->
 <div align="center">
-  <h2>🚀 Featured Projects & Web Applications</h2>
+  <h2><img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/icons/rocket.svg" width="22" height="22" valign="middle" alt="Projects Icon"/> Featured Projects & Web Applications</h2>
   
   <table>
     <tr>
@@ -107,7 +107,7 @@
 
 <!-- Social Media -->
 <div align="center">
-  <h2>🌐 Connect With Me</h2>
+  <h2><img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/icons/globe.svg" width="22" height="22" valign="middle" alt="Connect Icon"/> Connect With Me</h2>
   
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yakuzokai)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertvelez025@gmail.com)
@@ -119,19 +119,21 @@
 
 <!-- Contributions -->
 <div align="center">
-  <h2>🤝 How to Collaborate</h2>
+  <h2><img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/icons/git-pull-request.svg" width="22" height="22" valign="middle" alt="Collaborate Icon"/> How to Collaborate</h2>
   
-  🔍 Explore my open-source projects & architecture write-ups  
-  🐛 Report issues or request features  
-  💡 Suggest optimizations for distributed systems & embedded code  
-  🌟 Star the repositories you find useful  
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/icons/search.svg" width="16" height="16" valign="middle" alt="Search"/> Explore my open-source projects & architecture write-ups<br/>
+    <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/icons/bug.svg" width="16" height="16" valign="middle" alt="Bug"/> Report issues or request features<br/>
+    <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/icons/zap.svg" width="16" height="16" valign="middle" alt="Zap"/> Suggest optimizations for distributed systems & embedded code<br/>
+    <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/icons/star.svg" width="16" height="16" valign="middle" alt="Star"/> Star the repositories you find useful
+  </p>
 </div>
 
 <br/>
 
 <!-- Languages -->
 <div align="center">
-  <h2>🌍 Languages</h2>
+  <h2><img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/icons/languages.svg" width="22" height="22" valign="middle" alt="Languages Icon"/> Languages</h2>
   
   ![English](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge)
   ![Filipino](https://img.shields.io/badge/Filipino-Native-orange?style=for-the-badge)
@@ -141,7 +143,7 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <h2>📊 GitHub Statistics</h2>
+  <h2><img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/icons/bar-chart.svg" width="22" height="22" valign="middle" alt="Statistics Icon"/> GitHub Statistics</h2>
   
   <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yakuzokai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /><br/><br/>
@@ -160,5 +162,5 @@
 
 <!-- Footer -->
 <div align="center">
-  <p>🚀 Open to full-stack engineering roles, systems architecture consulting & innovative collaborations.</p>
+  <p><img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/icons/sparkles.svg" width="18" height="18" valign="middle" alt="Sparkles"/> Open to full-stack engineering roles, systems architecture consulting & innovative collaborations.</p>
 </div>
