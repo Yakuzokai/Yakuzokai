@@ -1,0 +1,6 @@
+# Reference folders
+yakuzo/
+
+# Temporary / scratch files
+*.tmp
+*.log
