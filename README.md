@@ -63,7 +63,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/Yakuzokai/pova5pro_hyperos_charge_bridge">
-          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/charge-bridge.png" width="250px" alt="POVA 5 Pro Charging Bridge"/><br/>
+          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/charging.jpg" width="250px" alt="POVA 5 Pro Charging Bridge"/><br/>
           <b>POVA 5 Pro Charging Bridge</b>
         </a>
       </td>
@@ -75,7 +75,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/Yakuzokai/MiuiHome_stack_enabler">
-          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/miui-stack.png" width="250px" alt="HyperOS Launcher Stack Recents Enabler"/><br/>
+          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/stack.jpg" width="250px" alt="HyperOS Launcher Stack Recents Enabler"/><br/>
           <b>HyperOS Stack Recents Enabler</b>
         </a>
       </td>
