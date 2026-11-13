@@ -12,7 +12,7 @@
   
   [![Email](https://img.shields.io/badge/Email-albertvelez025%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:albertvelez025@gmail.com)
   [![GitHub followers](https://img.shields.io/github/followers/Yakuzokai?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)](https://github.com/Yakuzokai)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-yakuzokai.github.io-blue?style=flat-square&logo=vercel)](https://yakuzokai.github.io/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-yakuzokai.github.io-blue?style=flat-square&logo=vercel)](https://yakuzo.netlify.app/)
   ![Profile Views](https://komarev.com/ghpvc/?username=Yakuzokai&style=flat-square&color=0891b2)
 </div>
 
@@ -34,7 +34,7 @@
   <h2><img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/icons/layers.svg" width="22" height="22" valign="middle" alt="Tech Stack Icon"/> Tech Stack</h2>
   
   #### Languages & Frameworks
-  <img src="https://skillicons.dev/icons?i=ts,js,py,dart,flutter,cpp,rust,react,nextjs,fastapi,nodejs,php" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,rust,go,c,dart,flutter,react,nextjs,fastapi,nodejs,php,bash" alt="Languages & Frameworks" />
   
   #### Backend, Systems & Infrastructure
   <img src="https://skillicons.dev/icons?i=docker,kafka,redis,postgres,mysql,elasticsearch,linux,ubuntu,nginx" alt="Backend & Infrastructure" />
@@ -50,16 +50,36 @@
   </p>
   
   #### Tools & Platforms
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,powershell" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,figma,powershell" alt="Tools & Platforms" />
 </div>
 
 <br/>
 
 <!-- Projects Section -->
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/icons/rocket.svg" width="22" height="22" valign="middle" alt="Projects Icon"/> Featured Projects & Web Applications</h2>
+  <h2><img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/icons/rocket.svg" width="22" height="22" valign="middle" alt="Projects Icon"/> Featured Projects & Systems Architecture</h2>
   
   <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Yakuzokai/pova5pro_hyperos_charge_bridge">
+          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/charge-bridge.png" width="250px" alt="POVA 5 Pro Charging Bridge"/><br/>
+          <b>POVA 5 Pro Charging Bridge</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Yakuzokai/LH8n_LightBelt_KSU_Module">
+          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/lh8n-ksu.png" width="250px" alt="Tecno LH8n LightBelt Module"/><br/>
+          <b>Tecno LH8n LightBelt Controller</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Yakuzokai/MiuiHome_stack_enabler">
+          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/miui-stack.png" width="250px" alt="HyperOS Launcher Stack Recents Enabler"/><br/>
+          <b>HyperOS Stack Recents Enabler</b>
+        </a>
+      </td>
+    </tr>
     <tr>
       <td align="center">
         <a href="https://github.com/Yakuzokai/E-commerce">
@@ -94,9 +114,9 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Yakuzokai/LH8n_LightBelt_KSU_Module">
-          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/lh8n-ksu.png" width="250px" alt="Tecno LH8n LightBelt Module"/><br/>
-          <b>Tecno LH8n LightBelt Controller</b>
+        <a href="https://yakuzokai.github.io/">
+          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/pisoos.png" width="250px" alt="PisoOS Terminal Platform"/><br/>
+          <b>PisoOS Hotspot & Terminal OS</b>
         </a>
       </td>
     </tr>

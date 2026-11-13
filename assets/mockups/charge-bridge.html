@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+  body { background: #09090b; color: #f4f4f5; width: 1280px; height: 800px; padding: 48px; display: flex; flex-direction: column; justify-content: space-between; overflow: hidden; }
+  .header { display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #27272a; padding-bottom: 24px; }
+  .badge { background: #18181b; border: 1px solid #27272a; color: #a1a1aa; padding: 6px 14px; border-radius: 9999px; font-size: 13px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; display: inline-flex; align-items: center; gap: 8px; }
+  .dot { width: 8px; height: 8px; background: #a855f7; border-radius: 50%; box-shadow: 0 0 10px #a855f7; }
+  .title { font-size: 38px; font-weight: 800; letter-spacing: -0.03em; color: #ffffff; margin-top: 12px; }
+  .subtitle { font-size: 16px; color: #a1a1aa; max-width: 650px; line-height: 1.5; margin-top: 8px; }
+  .content { display: grid; grid-template-columns: 1.15fr 1fr; gap: 32px; margin-top: 32px; flex: 1; }
+  .card { background: #121215; border: 1px solid #27272a; border-radius: 16px; padding: 24px; display: flex; flex-direction: column; justify-content: space-between; }
+  .feature-box { background: #18181b; border: 1px solid #27272a; border-radius: 10px; padding: 12px 16px; margin-bottom: 10px; display: flex; align-items: center; justify-content: space-between; }
+  .f-title { font-size: 14px; font-weight: 600; color: #f4f4f5; }
+  .f-desc { font-size: 11px; color: #71717a; margin-top: 2px; }
+  .f-badge { font-size: 11px; font-weight: 600; padding: 3px 8px; border-radius: 6px; }
+  .term { background: #000; border: 1px solid #27272a; border-radius: 12px; padding: 18px; font-family: monospace; font-size: 12px; line-height: 1.7; color: #d4d4d8; }
+  .tags { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 14px; }
+  .tag { background: #27272a; color: #e4e4e7; font-size: 12px; padding: 4px 10px; border-radius: 6px; font-weight: 500; }
+  .footer-status { display: flex; justify-content: space-between; align-items: center; border-top: 1px solid #27272a; padding-top: 20px; color: #71717a; font-size: 14px; }
+</style>
+</head>
+<body>
+  <div>
+    <div class='header'>
+      <div class='badge'><span class='dot'></span> Android Kernel & Power Subsystem</div>
+      <div class='badge'>KernelSU · Magisk · Java DEX · MediaTek MT6833</div>
+    </div>
+    <h1 class='title'>POVA 5 Pro HyperOS Charging Bridge</h1>
+    <p class='subtitle'>Hardware telemetry daemon bridging MediaTek PMIC charging states, NVDC hardware bypass, and HyperIsland battery animations on Xiaomi HyperOS for TECNO POVA 5 Pro.</p>
+  </div>
+  <div class='content'>
+    <div class='card'>
+      <div>
+        <h3 style='font-size:18px; margin-bottom:14px; color:#fff;'>Core Engineering Architecture</h3>
+        <div class='feature-box'>
+          <div>
+            <div class='f-title'>⚡ 68W Ultra Charge Tiering</div>
+            <div class='f-desc'>Detects PE 5.0 / USB-PD PPS dual-phase; dispatches ACTION_SOC_DECIMAL</div>
+          </div>
+          <span class='f-badge' style='background:#2e1065; color:#c084fc;'>68W MAX</span>
+        </div>
+        <div class='feature-box'>
+          <div>
+            <div class='f-title'>🎮 NVDC Hardware Bypass Charging</div>
+            <div class='f-desc'>Direct sysfs control isolating battery cells (&lt;80mA load) during gaming</div>
+          </div>
+          <span class='f-badge' style='background:#14532d; color:#4ade80;'>Zero Heat</span>
+        </div>
+        <div class='feature-box'>
+          <div>
+            <div class='f-title'>🏝️ HyperIsland & Control Center Integration</div>
+            <div class='f-desc'>Electric purple battery icon (#A855F7), 10s auto-hide, Quick Settings tiles</div>
+          </div>
+          <span class='f-badge' style='background:#082f49; color:#38bdf8;'>SystemUI</span>
+        </div>
+        <div class='feature-box'>
+          <div>
+            <div class='f-title'>📱 Bypass Control Companion APK</div>
+            <div class='f-desc'>9-point diagnostic assertion checklist, live 500ms telemetry, calibration check</div>
+          </div>
+          <span class='f-badge' style='background:#3b0764; color:#d8b4fe;'>App + CLI</span>
+        </div>
+      </div>
+      <div class='tags'>
+        <span class='tag'>KernelSU</span>
+        <span class='tag'>Java Daemon</span>
+        <span class='tag'>NVDC Bypass</span>
+        <span class='tag'>HyperOS 2.0</span>
+        <span class='tag'>MediaTek Dimensity</span>
+        <span class='tag'>Sysfs IO</span>
+      </div>
+    </div>
+    <div class='card'>
+      <div>
+        <h3 style='font-size:18px; margin-bottom:14px; color:#fff;'>Live Telemetry & Daemon Log</h3>
+        <div class='term'>
+          <span style='color:#a855f7;'>[BypassIslandDaemon]</span> v1.3.2 initialized (zero-fork DEX)<br/>
+          <span style='color:#10b981;'>[+] Sysfs Bound:</span> /sys/devices/platform/charger/bypass_charger<br/>
+          <span style='color:#38bdf8;'>[+] Telemetry:</span> VBUS=9120mV | IBAT=+3.6mA | Temp=34.2°C<br/>
+          <span style='color:#eab308;'>[+] Contract:</span> PE5 / PPS Detected (Dual-Phase Pump Active)<br/>
+          <span style='color:#a855f7;'>[+] Broadcast:</span> Broadcasted 68W MAX to HyperIsland<br/>
+          <span style='color:#10b981;'>[+] QS Tile:</span> BypassTileService: 'Verified · +3.6 mA'<br/>
+          <span style='color:#38bdf8;'>[+] Power Mode:</span> persist.sys.power_mode_support=true (Ultimate)
+        </div>
+      </div>
+      <div style='background:#18181b; border:1px solid #27272a; border-radius:10px; padding:12px 16px;'>
+        <div style='font-size:12px; color:#a855f7; font-weight:600;'>SAFETY MATRIX</div>
+        <div style='font-size:13px; color:#fff; font-weight:500; margin-top:2px;'>Auto-trip on unplug, battery &lt;10%, or thermal cutoff &gt;45.0°C</div>
+      </div>
+    </div>
+  </div>
+  <div class='footer-status'>
+    <span>Target: TECNO POVA 5 Pro 5G (LH8n) · Xiaomi HyperOS 1.0/2.0</span>
+    <span>Developed by Albert Velez (@Yakuzokai)</span>
+  </div>
+</body>
+</html>
