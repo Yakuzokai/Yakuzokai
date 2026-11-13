@@ -185,7 +185,7 @@
   <p><img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/icons/sparkles.svg" width="18" height="18" valign="middle" alt="Sparkles"/> Open to full-stack engineering roles, systems architecture consulting & innovative collaborations.</p>
 </div>
 
-<p>
+<p align="center">
   Albert Velez
   <br/>
   <strong>Also known as Yakuzo / Kagiyama</strong>
