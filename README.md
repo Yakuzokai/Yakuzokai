@@ -186,7 +186,5 @@
 </div>
 
 <p align="center">
-  Albert Velez
-  <br/>
   <strong>Also known as Yakuzo / Kagiyama</strong>
 </p>
