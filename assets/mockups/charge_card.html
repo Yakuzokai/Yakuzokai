@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif; }
+  body { background: #09090b; color: #f4f4f5; width: 1280px; height: 800px; padding: 40px 48px; display: flex; align-items: center; justify-content: space-between; overflow: hidden; }
+  .left-col { flex: 1; padding-right: 48px; display: flex; flex-direction: column; justify-content: space-between; height: 100%; }
+  .badge { background: #18181b; border: 1px solid #27272a; color: #c084fc; padding: 6px 14px; border-radius: 9999px; font-size: 13px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; display: inline-flex; align-items: center; gap: 8px; width: fit-content; }
+  .dot { width: 8px; height: 8px; background: #a855f7; border-radius: 50%; box-shadow: 0 0 10px #a855f7; }
+  .title { font-size: 38px; font-weight: 800; letter-spacing: -0.03em; color: #ffffff; margin-top: 14px; line-height: 1.15; }
+  .subtitle { font-size: 15px; color: #a1a1aa; line-height: 1.5; margin-top: 10px; }
+  .specs { margin-top: 24px; display: flex; flex-direction: column; gap: 10px; }
+  .spec-item { background: #121215; border: 1px solid #27272a; border-radius: 10px; padding: 12px 16px; display: flex; justify-content: space-between; align-items: center; }
+  .spec-title { font-size: 14px; font-weight: 600; color: #f4f4f5; display: flex; align-items: center; gap: 8px; }
+  .spec-badge { font-size: 11px; font-weight: 600; padding: 4px 10px; border-radius: 6px; }
+  .tags { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 22px; }
+  .tag { background: #18181b; border: 1px solid #27272a; color: #e4e4e7; font-size: 12px; padding: 5px 12px; border-radius: 6px; font-weight: 500; }
+  .footer { color: #71717a; font-size: 13px; margin-top: auto; padding-top: 18px; border-top: 1px solid #27272a; }
+  .phone-frame { width: 330px; height: 720px; background: #000; border-radius: 36px; border: 4px solid #27272a; box-shadow: 0 20px 60px rgba(0,0,0,0.9), 0 0 50px rgba(168,85,247,0.2); overflow: hidden; position: relative; flex-shrink: 0; }
+  .phone-frame img { width: 100%; height: 100%; object-fit: cover; display: block; }
+</style>
+</head>
+<body>
+  <div class="left-col">
+    <div>
+      <div class="badge"><span class="dot"></span> TECNO POVA 5 Pro (LH8n)</div>
+      <h1 class="title">POVA 5 Pro Charging Bridge</h1>
+      <p class="subtitle">Bridges hardware charging telemetry into Xiaomi HyperOS with NVDC bypass charging, 68W fast charge tiering, and companion APK.</p>
+      
+      <div class="specs">
+        <div class="spec-item">
+          <span class="spec-title">⚡ 68W Ultra Charge Tiering</span>
+          <span class="spec-badge" style="background:#2e1065; color:#c084fc;">PPS / PE5 Dual-Phase</span>
+        </div>
+        <div class="spec-item">
+          <span class="spec-title">🎮 NVDC Hardware Bypass Mode</span>
+          <span class="spec-badge" style="background:#14532d; color:#4ade80;">Zero Heat in Gaming</span>
+        </div>
+        <div class="spec-item">
+          <span class="spec-title">🏝️ HyperIsland Battery Sync</span>
+          <span class="spec-badge" style="background:#082f49; color:#38bdf8;">Electric Purple #A855F7</span>
+        </div>
+        <div class="spec-item">
+          <span class="spec-title">📱 Bypass Control Companion App</span>
+          <span class="spec-badge" style="background:#3b0764; color:#d8b4fe;">Control Center Tile</span>
+        </div>
+      </div>
+
+      <div class="tags">
+        <span class="tag">KernelSU</span>
+        <span class="tag">Magisk</span>
+        <span class="tag">Java DEX</span>
+        <span class="tag">MediaTek PMIC</span>
+        <span class="tag">Sysfs IO</span>
+        <span class="tag">HyperOS 2.0</span>
+      </div>
+    </div>
+    
+    <div class="footer">
+      TECNO POVA 5 Pro 5G · Xiaomi HyperOS 1.0 / 2.0 · Yakuzokai
+    </div>
+  </div>
+
+  <div class="phone-frame">
+    <img src="../projects/charging.jpg">
+  </div>
+</body>
+</html>

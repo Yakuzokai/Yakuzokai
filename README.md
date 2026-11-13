@@ -12,7 +12,7 @@
   
   [![Email](https://img.shields.io/badge/Email-albertvelez025%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:albertvelez025@gmail.com)
   [![GitHub followers](https://img.shields.io/github/followers/Yakuzokai?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)](https://github.com/Yakuzokai)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-yakuzokai.github.io-blue?style=flat-square&logo=vercel)](https://yakuzo.netlify.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-yakuzokai.github.io-blue?style=flat-square&logo=vercel)](https://yakuzokai.github.io/)
   ![Profile Views](https://komarev.com/ghpvc/?username=Yakuzokai&style=flat-square&color=0891b2)
 </div>
 
@@ -69,7 +69,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/Yakuzokai/LH8n_LightBelt_KSU_Module">
-          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/lh8n-ksu.png" width="250px" alt="Tecno LH8n LightBelt Module"/><br/>
+          <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/lightbelt.jpg" width="250px" alt="Tecno LH8n LightBelt Module"/><br/>
           <b>Tecno LH8n LightBelt Controller</b>
         </a>
       </td>
@@ -184,3 +184,9 @@
 <div align="center">
   <p><img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/icons/sparkles.svg" width="18" height="18" valign="middle" alt="Sparkles"/> Open to full-stack engineering roles, systems architecture consulting & innovative collaborations.</p>
 </div>
+
+<p>
+  Albert Velez
+  <br/>
+  <strong>Also known as Yakuzo / Kagiyama</strong>
+</p>
