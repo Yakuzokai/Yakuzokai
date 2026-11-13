@@ -12,7 +12,7 @@
   
   [![Email](https://img.shields.io/badge/Email-albertvelez025%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:albertvelez025@gmail.com)
   [![GitHub followers](https://img.shields.io/github/followers/Yakuzokai?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)](https://github.com/Yakuzokai)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-yakuzokai.github.io-blue?style=flat-square&logo=vercel)](https://yakuzokai.github.io/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-yakuzo.netlify.app-00AD9F?style=flat-square&logo=netlify)](https://yakuzo.netlify.app/)
   ![Profile Views](https://komarev.com/ghpvc/?username=Yakuzokai&style=flat-square&color=0891b2)
 </div>
 
@@ -94,7 +94,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://yakuzokai.github.io/">
+        <a href="https://yakuzo.netlify.app/">
           <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/cup.png" width="250px" alt="Celestine University"/><br/>
           <b>Celestine University (SRMS)</b>
         </a>
@@ -108,13 +108,13 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://yakuzokai.github.io/">
+        <a href="https://yakuzo.netlify.app/">
           <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/srms.png" width="250px" alt="NCST Student Record Management"/><br/>
           <b>NCST Student Record Management (SRMS)</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://yakuzokai.github.io/">
+        <a href="https://yakuzo.netlify.app/">
           <img src="https://raw.githubusercontent.com/Yakuzokai/Yakuzokai/main/assets/projects/pisoos.png" width="250px" alt="PisoOS Terminal Platform"/><br/>
           <b>PisoOS Hotspot & Terminal OS</b>
         </a>
@@ -131,7 +131,7 @@
   
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yakuzokai)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertvelez025@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yakuzokai.github.io/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-00AD9F?style=for-the-badge&logo=netlify&logoColor=white)](https://yakuzo.netlify.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 </div>
 
